@@ -1,0 +1,16 @@
+.material-icons {
+    vertical-align: middle;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+
+.loading {
+    width: 40vw;
+    height: 40vw;
+    max-width: 160px;
+    max-height: 160px;
+    margin: 0 auto;
+    display: block;
+}
